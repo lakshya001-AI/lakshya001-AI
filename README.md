@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1694245075~exp=1694245675~hmac=114cdea4b4a0924dd5329fea437cdc725c7af54dffa53c24225ae9fc23fbdff6)
+
 <h1 align="center">Hi 👋, I'm Lakshya Makode</h1>
 <h3 align="center">Igniting Passion in Android and Software Development</h3>
 <img align="right" alt="Coding" width="400" 
